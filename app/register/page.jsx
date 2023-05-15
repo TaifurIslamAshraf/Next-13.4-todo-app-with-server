@@ -92,9 +92,4 @@ const Page = () => {
   );
 };
 
-export const metadata = {
-  title: "Register Page",
-  description: "This is the Todo app and create by Taifur",
-};
-
 export default Page;
